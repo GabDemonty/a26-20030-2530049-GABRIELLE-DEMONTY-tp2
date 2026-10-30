@@ -6,7 +6,7 @@ tp2/
     ├── TXT
     └── CSV
 └── scripts/
-    ├── analyse.py # vous devez créer ce script, il va contenir le code de votre TP
+    ├── analyse.py # vous devez créer ce script, il va contenir le code de mon TP
 └── rapport/
-    ├── PNG # ce dossier contiendra les figures générées par votre script analyse.py
-    └── sommaire.txt # ce fichier sera généré par votre script analyse.py
+    ├── PNG # ce dossier contiendra les figures générées par mon script analyse.py
+    └── sommaire.txt # ce fichier sera généré par mon script analyse.py
